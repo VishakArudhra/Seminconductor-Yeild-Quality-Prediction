@@ -1,0 +1,10 @@
+
+
+First Name: Vishak
+Last Name: a
+Password: hello
+Email: a@b.com
+Address hello
+Gender: Male
+Course: PHP .NET JAVA PYTHON 
+Department: CSE 
